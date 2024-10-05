@@ -6,3 +6,4 @@ Git Commands :
 4.git add.filename     ---  to add the file into git(git add FILENAME)
 5.git commit -m "MESSAGE"
 6.git chechout -b "user'
+****************************************************************************			
